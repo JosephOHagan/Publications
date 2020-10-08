@@ -17,5 +17,6 @@ David Englmeier, Joseph O'Hagan, Mengyi Zhang, Florian Alt, Andreas Butz, Tobias
 * Mohamed Khamis
 * David Englmeier
 * Mengyi Zhang
+* Florian Alt
 * Andreas Butz
 * Tobias Höllerer

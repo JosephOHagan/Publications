@@ -10,7 +10,7 @@ Joseph O’Hagan, Julie R. Williamson, and Mohamed Khamis. 2020. Bystander inter
 
 ### To Appear
 
-David Englmeier, Joseph O'Hagan, Mengyi Zhang, Florian Alt, Andreas Butz, Tobias Höllerer, and Julie Williamson. TangibleSphere – interaction techniques for physical and virtual spherical displays. In Proceedings of the 11th nordic conference on human-computer interaction (NordiCHI ’20), ACM, New York, NY, USA, 2020.
+David Englmeier, Joseph O'Hagan, Mengyi Zhang, Florian Alt, Andreas Butz, Tobias Höllerer, and Julie R. Williamson. TangibleSphere – interaction techniques for physical and virtual spherical displays. In Proceedings of the 11th nordic conference on human-computer interaction (NordiCHI ’20), ACM, New York, NY, USA, 2020.
 
 ### Conflict List
 * Julie R. Williamson

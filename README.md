@@ -8,9 +8,10 @@ Joseph O’Hagan and Julie R. Williamson. 2020. Reality aware VR headsets. PerDi
 
 Joseph O’Hagan, Julie R. Williamson, and Mohamed Khamis. 2020. Bystander interruption of VR users. PerDis 2020. Association for Computing Machinery, New York, NY, USA, 19–27. DOI: https://doi.org/10.1145/3393712.3395339
 
+David Englmeier, Joseph O'Hagan, Mengyi Zhang, Florian Alt, Andreas Butz, Tobias Höllerer, and Julie R. Williamson. TangibleSphere – interaction techniques for physical and virtual spherical displays. In Proceedings of the 11th nordic conference on human-computer interaction (NordiCHI ’20), ACM, New York, NY, USA, 2020. DOI: https://dl.acm.org/doi/10.1145/3419249.3420101
+
 ### To Appear
 
-David Englmeier, Joseph O'Hagan, Mengyi Zhang, Florian Alt, Andreas Butz, Tobias Höllerer, and Julie R. Williamson. TangibleSphere – interaction techniques for physical and virtual spherical displays. In Proceedings of the 11th nordic conference on human-computer interaction (NordiCHI ’20), ACM, New York, NY, USA, 2020.
 
 ### Conflict List
 * Julie R. Williamson
